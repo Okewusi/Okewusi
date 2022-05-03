@@ -4,8 +4,13 @@
                                   Languages: Javascript, Node Js, Python
                                   Frameworks: React, React Native, Express Js, Bootstrap
                                   Databases: Mongo DB, Firebase
-
+                                  
+                                - ✨ Achievements
+                                  JavaScript (Basic) Certificate By Hackerrank 
+                                  https://www.hackerrank.com/certificates/ad3079bbfd5d
+                                
                                 - 📫 How to reach me ...
+                                
                                   okewusioluwapelumi@gmail.com
 
 <!---
