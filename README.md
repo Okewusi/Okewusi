@@ -1,9 +1,9 @@
                                 - 👋 Hi, I’m Okewusi Oluwapelumi Comfort
-                                - 👀 I am transitioning to tech as a software engineer. 
+                                - 👀 I am a student at the University of Houston, Downtown studying Data Analytics. 
                                 - Tech Stacks
-                                  Languages: Javascript, Node Js, Python
-                                  Frameworks: React, React Native, Express Js, Bootstrap
-                                  Databases: Mongo DB, Firebase
+                                  Languages: Javascript, Node Js, Python, R
+                                  Frameworks: React, React Native, Express Js, Bootstrap, Flask
+                                  Databases: Mongo DB, Firebase, Postgres
                                   
                                 - ✨ Achievements
                                   JavaScript (Basic) Certificate By Hackerrank 
