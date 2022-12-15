@@ -2,7 +2,7 @@
                                 - 👀 I am a student at the University of Houston, Downtown studying Data Analytics. 
                                 - Tech Stacks
                                   Languages: Javascript, Node Js, Python, R
-                                  Frameworks: React, React Native, Express Js, Bootstrap, Flask
+                                  Frameworks: React, React Native, Express Js, Bootstrap,Tailwind CSS, Flask
                                   Databases: Mongo DB, Firebase, Postgres
                                   
                                 - ✨ Achievements
